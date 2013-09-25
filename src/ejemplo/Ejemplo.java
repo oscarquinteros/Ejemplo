@@ -17,4 +17,5 @@ public class Ejemplo {
         System.out.println("Programa Ejemplo2");
         System.out.println("Programa Ejemplo");
     }
+    public void verCambios(){}	
 }
